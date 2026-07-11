@@ -1,8 +1,10 @@
 ## Hi there, I'm Supratim Ghosh👋
 <br>
-Skills<br>
+**Skills**<br>
 • Python<br>
-• C#<br>
+• JavaScript<br>
+• HTML<br>
+• CSS<br>
 • SQL<br>
 
 <!--
