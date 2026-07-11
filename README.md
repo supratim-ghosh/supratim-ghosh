@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Supratim Ghosh👋
+
+Skills
+• Python
+• C#
+• SQL
 
 <!--
 **supratim-ghosh/supratim-ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
