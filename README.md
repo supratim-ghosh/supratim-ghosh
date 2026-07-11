@@ -1,23 +1,23 @@
-## Hi there, I'm Supratim Ghosh👋
-<br>
-**Skills**<br>
-• Python<br>
-• JavaScript<br>
-• HTML<br>
-• CSS<br>
-• SQL<br>
+# Hi there, I'm Supratim Ghosh 👋
 
-<!--
-**supratim-ghosh/supratim-ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+Packaged Application Development Associate at Accenture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- SQL
+  
+## 🚀 Featured Projects
+
+- Calculator
+- BOTTOP
+  
+## 📫 Contact
+
+- LinkedIn: [Supratim Ghosh](https://www.linkedin.com/in/supratim-ghosh-cse/)
+- Email: [ghoshsupratim00@gmail.com](mailto:ghoshsupratim00@gmail.com)
